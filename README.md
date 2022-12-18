@@ -22,9 +22,7 @@ IV. Dataset used:
 
 We captured some real-life images of the following objects to train the model. 
 {pen, notebook, cup, keyboard, phone} 
-
-Drive link: 
-- shorturl.at/lBJ03 
+ 
 
 V. Details of the algorithm(s)/approach(es)
 
