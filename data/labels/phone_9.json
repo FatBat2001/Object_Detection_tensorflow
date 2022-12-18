@@ -1,0 +1,26 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "phone",
+      "points": [
+        [
+          52.638888888888864,
+          237.2222222222222
+        ],
+        [
+          278.3333333333333,
+          346.94444444444446
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\images\\phone_9.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

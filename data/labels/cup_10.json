@@ -1,0 +1,26 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "cup",
+      "points": [
+        [
+          337.3611111111111,
+          422.6388888888889
+        ],
+        [
+          233.88888888888889,
+          311.52777777777777
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\images\\cup_10.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

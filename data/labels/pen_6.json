@@ -1,0 +1,26 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "pen",
+      "points": [
+        [
+          50.55555555555553,
+          431.6666666666667
+        ],
+        [
+          256.80555555555554,
+          459.44444444444446
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\images\\pen_6.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

@@ -1,0 +1,26 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "keyboard",
+      "points": [
+        [
+          121.38888888888886,
+          143.4722222222222
+        ],
+        [
+          336.66666666666663,
+          437.22222222222223
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\images\\keyboard_10.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

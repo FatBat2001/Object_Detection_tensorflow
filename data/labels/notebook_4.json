@@ -1,0 +1,26 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "notebook",
+      "points": [
+        [
+          336.66666666666663,
+          460.1388888888889
+        ],
+        [
+          138.74999999999997,
+          187.2222222222222
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\images\\notebook_4.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}
